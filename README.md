@@ -119,3 +119,12 @@ Pick and choose that fit's your need.
 - Applying genai to tabular data set - which are most business and financial, HR systems to provide analytics - Very much experimentation
 - Technician guidance by providing steps and recommendation to perform their task.
 - Insurance agents guidance bot to understand what process to follow.
+- Analyzing survey data for various use cases and industries
+- Creating priorities for HR job profiles or employee priority.
+- Creating application descriptions for Market place apps
+- Engineering application summarizing output for regular people.
+- Fine tuning for specific task or specific task in a industry
+- Summarizing shopping cart ordered items and show anamolies in shipping or out of stock
+- Creating details description for items displayed in product catalog.
+- Order taking help bot for ecommerce web site
+- Engineering drawing creation bot to design new customized products.
