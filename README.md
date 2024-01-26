@@ -84,6 +84,9 @@ Pick and choose that fit's your need.
 - Manufacturing - understanding new ways to build products and services
 - Manufacturing - Workplace safety, understanding obstacles and provide safety
 - Summarizing legal and privacy statements of various places.
+- Creating witness statements and taking points
+- Court case summarization and driving insights
+- Court case transcription and documenting
 - Creating power points and other informative contents.
 - Cyber Security - driving key insights on behaviour
 - Analyzing risk in various process
@@ -128,3 +131,12 @@ Pick and choose that fit's your need.
 - Creating details description for items displayed in product catalog.
 - Order taking help bot for ecommerce web site
 - Engineering drawing creation bot to design new customized products.
+- IT Enterprise architect - Application inventory insights
+- IT - Automation use cases
+- IT - Root cause analytics and provide faster resolution
+- IT - Creating architecture diagrams for use cases
+- IT - Creating Code for use cases
+- IT - Document classficiation for knowledge mining
+- Police and fire - summarizing accidents form, extracting information
+- Police and fire - document summarization and classification
+- Police and fire - Guidness on various situations in the field.
