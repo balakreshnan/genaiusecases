@@ -49,6 +49,7 @@ Pick and choose that fit's your need.
 - User productivity tools for employees to manage their work like email, docs, powerpoint, plans and strategy
 - Real Estate property description
 - Real Estate property insights based on engineering drawings or brochures
+- Real Estate property bouchers for customers detailing property and it's benefits.
 - Summarize insights for various utility bills, instead of reading bills get insights.
 - Summarize various videos and make it searchable and also summarize insights
 - Create vido, audio based knowledge base to extract knowledge for end users
@@ -117,3 +118,4 @@ Pick and choose that fit's your need.
 - Creating stock decription for tickers
 - Applying genai to tabular data set - which are most business and financial, HR systems to provide analytics - Very much experimentation
 - Technician guidance by providing steps and recommendation to perform their task.
+- Insurance agents guidance bot to understand what process to follow.
