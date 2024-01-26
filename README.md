@@ -84,3 +84,36 @@ Pick and choose that fit's your need.
 - Manufacturing - Workplace safety, understanding obstacles and provide safety
 - Summarizing legal and privacy statements of various places.
 - Creating power points and other informative contents.
+- Cyber Security - driving key insights on behaviour
+- Analyzing risk in various process
+- Analyzing risk in various industries
+- Medical trascription and recommedation based on symptoms and medicine.
+- Healthcare creating content for appointment scheduling based on history
+- Healthcare guidance on various illness
+- Detecting illness based on image or x rays
+- Creating video content based on content
+- Creating synthetic data for various use cases.
+- Gaming - creating objects and create scenes for game development
+- Creating scripting or code for use cases
+- Converting Code from one lanugage to another
+- Converting language from one to another using whisper
+- Provide audio ready content for product documentation, other manuals and process.
+- Robotics - create plans for certain actions to take based on user input
+- Robotics manual chat bot to operate and troubleshoot.
+- Create line or factory based chat gpt for operations and maintenance
+- Education Virtual Tutor
+- Education Virtual Class room  - notes summarizer, Home work tasks
+- Student learning assistant for subjects.
+- Students planning for courses to take and complete
+- Students recommendation based how they are performing and courses that might be of their interest
+- Student assesment using Gen AI
+- Lecture assitant for their classes
+- Education instituional courses chat bot for students to understand and pick courses
+- Education Student creating their own learning path
+- Agriculture - detecting plants, fruits and other defects using image
+- Agriculture - describe specices of insects that are eating the plant.
+- Agriculture - finding yeild and getting insights based on images of fields.
+- Agricutlure - Field chat gpt based on equipments and enable farmers understand equipment and other operations and maintenance.
+- Creating stock decription for tickers
+- Applying genai to tabular data set - which are most business and financial, HR systems to provide analytics - Very much experimentation
+- 
