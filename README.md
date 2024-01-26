@@ -116,4 +116,4 @@ Pick and choose that fit's your need.
 - Agricutlure - Field chat gpt based on equipments and enable farmers understand equipment and other operations and maintenance.
 - Creating stock decription for tickers
 - Applying genai to tabular data set - which are most business and financial, HR systems to provide analytics - Very much experimentation
-- 
+- Technician guidance by providing steps and recommendation to perform their task.
