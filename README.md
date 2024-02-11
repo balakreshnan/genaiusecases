@@ -140,3 +140,5 @@ Pick and choose that fit's your need.
 - Police and fire - summarizing accidents form, extracting information
 - Police and fire - document summarization and classification
 - Police and fire - Guidness on various situations in the field.
+- Construction - reading engineering drawing and explain
+   
