@@ -141,4 +141,46 @@ Pick and choose that fit's your need.
 - Police and fire - document summarization and classification
 - Police and fire - Guidness on various situations in the field.
 - Construction - reading engineering drawing and explain
-   
+- Shopping cart creation using natural language
+- Analyzing sentiments from twitter feed, instragram or other social media content about products usage and comments
+- Research platform for Manufacturing
+- Research Platform for Food or Pharmacy products
+- Video based insights using LLM
+- Video Meta data retrieval using LLM both and text and images
+- Video analytics using video summarization or talk to videos concept
+- Creating scenes based on text to video
+- Extract information from text in any use cases like order extraction, or extract Entity information for any use case
+- Creating dialogs or Episodes based on summary of what the scene should be
+- Agents based architecture for multi layer decision tree for customer support or various business functions
+- Agentic Architecture
+- Gen AI and Agentic platform for IT Governance to build 100's of Generation AI application
+- Merger and azquistion use cases which can help consultants get insights faster then reading a lot
+- Figma UI design to code generation in multiple lanugage
+- Video Events tracking or task tracking - can be applied to various use cases
+- Multi Agent Brain storming system for Marketing to define personas and understand various view point to understand consumer sentiments, virtual focus groups
+- Cheese manufacturing governance and compliance system
+- Manufacturing governance and compliance
+- Other industries can also apply
+- Manufacturing Receipe management virtual agent to learn and enforce best practices
+- Connected Systems institute Receipe research platform to build ideas
+- Natural Lanugage to Kusto KQL generator
+- Language translation of documents, web site, other voice recordings into other lanuage
+- Document or tutorial creation using text to speech avator service, widely used in learning and development use cases
+- Planogram analysis with Vision based LLM
+- Telecommunication networking equipment inventoy identification
+- Virtual coach for fitness
+- Virtual nurse for Medical field
+- Speech enabled designing interior of the house
+- Speech enabled designing a house or high rise, commercial buildings
+- Natural language to diagram creations using Large language models
+- Comedy Track creation for shows
+- Customer planning for Sales team to analyze and prioritize strategy to focus on
+- Video enabled research platforms for various industries
+- Video enabled learning and development systems
+- Manufacturing task monitoring and recording using vision AI and record time
+- Player analytics using video AI and understanding game performance for various sports
+- Player analytics for safety and medical issues
+- PPE Safety analytics using Vision analytics
+- Metal scratches and other visual defects identification
+- Smart building Vision AI on construction, other infrastructure projects for public use cases for building, safety, quality and anamoly.
+- Various vision management like queue, theft, fatigue, hardazous analysis in Train, bus, airport, ships and other publc transporation to alert officals to take action.
