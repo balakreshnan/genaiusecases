@@ -184,3 +184,10 @@ Pick and choose that fit's your need.
 - Metal scratches and other visual defects identification
 - Smart building Vision AI on construction, other infrastructure projects for public use cases for building, safety, quality and anamoly.
 - Various vision management like queue, theft, fatigue, hardazous analysis in Train, bus, airport, ships and other publc transporation to alert officals to take action.
+- Friction less entries into building
+- Parking lot - slot assignment and empty detection - asking parking lot system for emtpy slots
+- Inside building navigation and ability to order meetings, food, cafeteria items using natural language
+- Various house hold utencils with natural lanuage capability like refrigerators, TV, microwave owen, washing machine etc.
+- Driveless autonomous driving for cars, trucks, ships, airplane, trains and rockets
+- Cycle time calculation using LLM for manufacturing plant floor
+- More to come
