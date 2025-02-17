@@ -23,6 +23,9 @@ Pick and choose that fit's your need.
     - Press release creation
     - Keynote, events speaker content generation
     - Marketing idea, inspiration creation
+    - Product documentation
+    - Product specification
+    - Product Specification legal compliance
 - Sales
     - Sales proposal guidance
     - RFP/RFQ guidance
