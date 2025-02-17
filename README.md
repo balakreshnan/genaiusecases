@@ -107,6 +107,7 @@ Pick and choose that fit's your need.
 - Provide audio ready content for product documentation, other manuals and process.
 - Robotics - create plans for certain actions to take based on user input
 - Robotics manual chat bot to operate and troubleshoot.
+- Robotic design and code using Gen AI
 - Create line or factory based chat gpt for operations and maintenance
 - Education Virtual Tutor
 - Education Virtual Class room  - notes summarizer, Home work tasks
@@ -122,6 +123,7 @@ Pick and choose that fit's your need.
 - Agriculture - finding yeild and getting insights based on images of fields.
 - Agricutlure - Field chat gpt based on equipments and enable farmers understand equipment and other operations and maintenance.
 - Creating stock decription for tickers
+- Creating detailed financial analysis using reasoning models.
 - Applying genai to tabular data set - which are most business and financial, HR systems to provide analytics - Very much experimentation
 - Technician guidance by providing steps and recommendation to perform their task.
 - Insurance agents guidance bot to understand what process to follow.
@@ -148,6 +150,9 @@ Pick and choose that fit's your need.
 - Analyzing sentiments from twitter feed, instragram or other social media content about products usage and comments
 - Research platform for Manufacturing
 - Research Platform for Food or Pharmacy products
+- Research platform for design for any industry.
+- Research brain storming type tools for any industry.
+- Quantum computing programming using Gen AI.
 - Video based insights using LLM
 - Video Meta data retrieval using LLM both and text and images
 - Video analytics using video summarization or talk to videos concept
@@ -193,4 +198,17 @@ Pick and choose that fit's your need.
 - Various house hold utencils with natural lanuage capability like refrigerators, TV, microwave owen, washing machine etc.
 - Driveless autonomous driving for cars, trucks, ships, airplane, trains and rockets
 - Cycle time calculation using LLM for manufacturing plant floor
+- Professional Services - finding the right skills for requirements
+- Professional Services - Estimating project time line and resource and create project plan documents.
+- Professional Services - Create and respond to RFP, RFQ, Proposal Plan.
+- Professional Services - Create use case specific, industry specific plan for customers.
+- Professional Services - Fast track PoC and Demo.
+- Climate model using satellite image for predicting weather, atmosphere
+- Patient and Health care system's that can be based on convesation.
+- Health Care journal system to find recent information for advanced diagnosis
+- Research based platform for healtcare diagnosis
+- State, City based video analytics on camera videos on various location.
+- Insights on state or city camera video for safety and regulations.
+- Government entry systems for driver license, court system, public safety, Forestry where main interface will be converation based.
+- Every government license, or form filling  can be replaced by Gen AI Agents.
 - More to come
