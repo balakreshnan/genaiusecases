@@ -1,6 +1,6 @@
-# Generative AI use cases
+# Generative AI/Agentic AI use cases
 
-## List of Generic Use Case across Industry
+## List of Generic Use Case across Industry (Both Gen AI and Agentic AI)
 
 ```
 Note: all the below use cases are created to assist human and help their productivity. These use cases can be applied in any or in general in all industries.
